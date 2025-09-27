@@ -1,6 +1,6 @@
 # {{ title }}
 
-<img src="https://colby-timm.github.io/images/byte-teacher.png" align="right" height="180px" />
+<img src="https://colby-timm.github.io/images/byte-teacher.png" align="right" height="160px" />
 
 Hey {{ login }}!
 
