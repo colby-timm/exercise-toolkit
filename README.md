@@ -131,4 +131,3 @@ These GitHub Actions are particularly useful when creating GitHub Skills Exercis
 - **[skills/action-text-variables](https://github.com/skills/action-text-variables)**: Replace variables in template files with dynamic content
 - **[skills/action-keyphrase-checker](https://github.com/skills/action-keyphrase-checker)**: Verify if specific keyphrases exist in files or content
 - **[GrantBirki/comment](https://github.com/GrantBirki/comment)**: Create comments on GitHub issues or pull requests with support for Nunjucks templating
-

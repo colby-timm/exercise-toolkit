@@ -18,4 +18,4 @@ As you complete each step, I’ll leave updates in the comments:
 
 Let’s get started - good luck and have fun!
 
-<sub>— Mona</sub>
+<sub>- Byte</sub>
