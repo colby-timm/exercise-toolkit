@@ -1,4 +1,4 @@
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="100px" />
+<img src="https://colby-timm.github.io/images/byte-teacher.png" align="right" height="100px" />
 
-🎉🎉🎉  Nice work! Everything is perfect! 🎉🎉🎉   
+🎉🎉🎉  Nice work! Everything is perfect! 🎉🎉🎉
 Now, let's do a quick review!

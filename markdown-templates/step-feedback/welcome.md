@@ -1,6 +1,6 @@
 ## {{ title }}
 
-<img alt="original github octocat" src="https://octodex.github.com/images/original.png" align="left" height="80px" />
+<img alt="byte" src="https://colby-timm.github.io/images/byte-welcome.png" align="left" height="90px" />
 
 👋 Hey there @{{ login }}! Welcome to your Skills exercise!
 

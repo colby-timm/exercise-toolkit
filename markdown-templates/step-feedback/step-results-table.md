@@ -11,10 +11,10 @@
 {%- endif %}
 
 {%- if all_passed %}
-<img src="https://octodex.github.com/images/inflatocat.png" align="right" height="150px" alt="Inflatocat image indicating the step passed" />
+<img src="https://colby-timm.github.io/images/byte-pass.png" align="right" height="150px" alt="Byte image indicating the step passed" />
 {%- else %}
 
-<img src="https://octodex.github.com/images/spidertocat.png" align="right" height="100px" alt="Spidertocat image indicating the step failed" />
+<img src="https://colby-timm.github.io/images/byte-mistake.png" align="right" height="100px" alt="Byte image indicating the step failed" />
 Some checks failed. Please review the results below and try again.
 
 Time to find the bug! 🤔

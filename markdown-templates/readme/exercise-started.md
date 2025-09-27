@@ -1,6 +1,6 @@
 # {{ title }}
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://colby-timm.github.io/images/byte-teacher.png" align="right" height="180px" />
 
 Hey {{ login }}!
 

@@ -1,4 +1,4 @@
-<img src="https://octodex.github.com/images/welcometocat.png" align="left" height="150px" />
+<img src="https://colby-timm.github.io/images/byte-celebrate.png" align="left" height="150px" />
 
 Congratulations @{{ login }}! You finished the exercise! 🎉🎉🎉
 

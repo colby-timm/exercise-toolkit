@@ -1,7 +1,7 @@
 # Skills Exercises Toolkit :hammer_and_wrench:
 
 <p align="center">
-  <img src="https://octodex.github.com/images/manufacturetocat.png" alt="Manufacturetocat" width="300" />
+  <img src="https://colby-timm.github.io/images/byte-manufacturing.png" alt="Byte Manufacturing" width="300" />
 </p>
 
 - [Skills Exercises Toolkit :hammer\_and\_wrench:](#skills-exercises-toolkit-hammer_and_wrench)
